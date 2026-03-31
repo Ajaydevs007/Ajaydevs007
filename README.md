@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajaydev S
 
-🔐 Cybersecurity Enthusiast | Aspiring Penetration Tester  
-⚔️ Focused on Web Application Security & Ethical Hacking  
+🔐 Cybersecurity Enthusiast 
+ 
 
 ---
 
@@ -10,7 +10,7 @@
 I'm a BCA graduate who transitioned from **MERN Stack Development** into **Cybersecurity**.
 
 After building full-stack applications, I became deeply interested in how systems can be attacked and secured.  
-This led me to fully shift my career towards **Offensive Security**.
+This led me to fully shift my career towards **Cyber Security**.
 
 Now, I focus on identifying vulnerabilities, understanding attack techniques, and strengthening application security.
 
