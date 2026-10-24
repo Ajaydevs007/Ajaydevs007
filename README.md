@@ -57,4 +57,6 @@ I publish cybersecurity investigation walkthroughs on [Medium](https://medium.co
 
 ---
 
+[Portfolio maintenance workflow](PORTFOLIO_MAINTENANCE.md) — checklist for new labs, documentation, evidence, and safe publishing.
+
 *This portfolio is a work in progress. I aim to document what I have actually tested, what the evidence shows, and what I learned from each lab.*
