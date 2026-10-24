@@ -45,6 +45,10 @@ I completed the **Offenso Certified Security Professional (OCSP)** program at Of
 - Continuing to strengthen SOC investigation, detection engineering, and security fundamentals.
 - **Cloud Security** is a planned learning area. I will add practical cloud-security work here once I have completed and documented hands-on labs.
 
+## 🏆 Achievement
+
+- **1st Place — What The Web Chapter 3 presentation** — certificate issued on **20 May 2026**.
+
 ## ✍️ Writing
 
 I publish cybersecurity investigation walkthroughs on [Medium](https://medium.com/@ajaydevsv).
